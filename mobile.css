@@ -1,0 +1,48 @@
+@media(max-width:450px){
+    
+    
+    h1{
+        left: 7%;   
+    }
+    
+    span div{
+        bottom: 58%;
+        left: 15%;
+    }
+    
+    span div2{
+        bottom: 65%;
+        left: 50%;
+    }
+    
+    .inputcelcius{
+        bottom: 34%;
+        right: 9%;
+    }
+    
+    .button{
+        top: 110%;
+        right: 53%;
+    }
+    
+    .reset-btn{
+        top: 110%;
+        right: 12%;
+    }
+     
+    .img1{
+        bottom: -43%;
+        left: 32%;
+    }
+    
+    .img2{
+        bottom: -43%;
+        left: 44%;
+    }
+    
+    .img3{
+        bottom: -43%;
+        left: 55%;
+    }
+    
+}
